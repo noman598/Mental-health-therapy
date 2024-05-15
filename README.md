@@ -1,4 +1,4 @@
-# Mental-health-therapy
+# Finetuning of Falcon-7B LLM using QLoRA for Mental-health-therapy
 
 ![Screenshot 2024-05-05 100537](https://github.com/noman598/Mental-health-therapy/assets/106810794/81b81d60-ad66-4357-b29d-c39799c31a6f)
 
